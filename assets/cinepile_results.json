@@ -1,0 +1,242 @@
+[
+    {
+        "Model": "Gemini 1.5 Pro-001",
+        "Params": "-",
+        "Avg": 60.12,
+        "CRD": 63.9,
+        "NPA": 70.44,
+        "STA": 57.85,
+        "TEMP": 46.74,
+        "TH": 59.87
+    },
+    {
+        "Model": "Gemini 1.5 Flash-001",
+        "Params": "-",
+        "Avg": 58.75,
+        "CRD": 62.82,
+        "NPA": 69.76,
+        "STA": 55.99,
+        "TEMP": 44.04,
+        "TH": 62.67
+    },
+    {
+        "Model": "GPT-40",
+        "Params": "-",
+        "Avg": 56.06,
+        "CRD": 60.93,
+        "NPA": 69.33,
+        "STA": 49.48,
+        "TEMP": 45.78,
+        "TH": 61.05
+    },
+    {
+        "Model": "GPT-4 Vision",
+        "Params": "-",
+        "Avg": 55.35,
+        "CRD": 60.2,
+        "NPA": 68.47,
+        "STA": 48.63,
+        "TEMP": 45.78,
+        "TH": 59.47
+    },
+    {
+        "Model": "LLaVA-OV",
+        "Params": "7B",
+        "Avg": 49.34,
+        "CRD": 52.13,
+        "NPA": 59.83,
+        "STA": 46.54,
+        "TEMP": 37.65,
+        "TH": 58.42
+    },
+    {
+        "Model": "LLaVA-OV Chat",
+        "Params": "7B",
+        "Avg": 49.28,
+        "CRD": 52.47,
+        "NPA": 58.32,
+        "STA": 46.28,
+        "TEMP": 37.79,
+        "TH": 58.42
+    },
+    {
+        "Model": "MiniCPM-V 2.6",
+        "Params": "8B",
+        "Avg": 46.91,
+        "CRD": 50.1,
+        "NPA": 54.21,
+        "STA": 44.52,
+        "TEMP": 35.61,
+        "TH": 54.74
+    },
+    {
+        "Model": "Claude 3 Opus",
+        "Params": "-",
+        "Avg": 45.6,
+        "CRD": 48.89,
+        "NPA": 57.88,
+        "STA": 40.73,
+        "TEMP": 37.65,
+        "TH": 47.89
+    },
+    {
+        "Model": "VideoLLaMA2",
+        "Params": "7B",
+        "Avg": 44.57,
+        "CRD": 47.44,
+        "NPA": 54.64,
+        "STA": 41.91,
+        "TEMP": 34.3,
+        "TH": 47.37
+    },
+    {
+        "Model": "InternVL2",
+        "Params": "26B",
+        "Avg": 43.86,
+        "CRD": 47.1,
+        "NPA": 56.16,
+        "STA": 39.03,
+        "TEMP": 34.16,
+        "TH": 52.63
+    },
+    {
+        "Model": "LongVA DPO",
+        "Params": "7B",
+        "Avg": 42.78,
+        "CRD": 45.84,
+        "NPA": 54.21,
+        "STA": 39.16,
+        "TEMP": 33.43,
+        "TH": 44.74
+    },
+    {
+        "Model": "Intern VL-V1.5",
+        "Params": "25.5B",
+        "Avg": 41.69,
+        "CRD": 45.07,
+        "NPA": 51.19,
+        "STA": 38.97,
+        "TEMP": 30.09,
+        "TH": 45.79
+    },
+    {
+        "Model": "LongVA",
+        "Params": "7B",
+        "Avg": 41.04,
+        "CRD": 43.28,
+        "NPA": 51.84,
+        "STA": 38.45,
+        "TEMP": 33.58,
+        "TH": 38.42
+    },
+    {
+        "Model": "InternVL2",
+        "Params": "4B",
+        "Avg": 39.89,
+        "CRD": 42.99,
+        "NPA": 47.73,
+        "STA": 36.23,
+        "TEMP": 32.99,
+        "TH": 41.58
+    },
+    {
+        "Model": "mPLUG-Owl3",
+        "Params": "8B",
+        "Avg": 38.27,
+        "CRD": 40.91,
+        "NPA": 45.71,
+        "STA": 33.86,
+        "TEMP": 33.09,
+        "TH": 46.2
+    },
+    {
+        "Model": "LLaVA-OV",
+        "Params": "0.5B",
+        "Avg": 33.82,
+        "CRD": 35.88,
+        "NPA": 39.96,
+        "STA": 31.66,
+        "TEMP": 27.03,
+        "TH": 38.42
+    },
+    {
+        "Model": "InternVL2",
+        "Params": "8B",
+        "Avg": 32.28,
+        "CRD": 35.25,
+        "NPA": 40.39,
+        "STA": 28.46,
+        "TEMP": 24.71,
+        "TH": 38.42
+    },
+    {
+        "Model": "InternVL2",
+        "Params": "2B",
+        "Avg": 30.34,
+        "CRD": 31.91,
+        "NPA": 33.26,
+        "STA": 30.35,
+        "TEMP": 23.26,
+        "TH": 31.58
+    },
+    {
+        "Model": "VideoChat2",
+        "Params": "7B",
+        "Avg": 29.27,
+        "CRD": 31.04,
+        "NPA": 34.56,
+        "STA": 25.26,
+        "TEMP": 27.91,
+        "TH": 34.21
+    },
+    {
+        "Model": "Video LLaVa",
+        "Params": "7B",
+        "Avg": 25.72,
+        "CRD": 26.64,
+        "NPA": 32.61,
+        "STA": 23.63,
+        "TEMP": 23.26,
+        "TH": 24.74
+    },
+    {
+        "Model": "CogVLM2",
+        "Params": "19B",
+        "Avg": 17.16,
+        "CRD": 18.33,
+        "NPA": 17.06,
+        "STA": 17.23,
+        "TEMP": 13.08,
+        "TH": 18.95
+    },
+    {
+        "Model": "InternVL2",
+        "Params": "1B",
+        "Avg": 15.97,
+        "CRD": 17.65,
+        "NPA": 19.22,
+        "STA": 13.25,
+        "TEMP": 12.94,
+        "TH": 22.63
+    },
+    {
+        "Model": "Video-ChatGPT",
+        "Params": "7B",
+        "Avg": 15.08,
+        "CRD": 17.06,
+        "NPA": 16.34,
+        "STA": 15.17,
+        "TEMP": 7.26,
+        "TH": 18.58
+    },
+    {
+        "Model": "mPLUG-Owl",
+        "Params": "7.2B",
+        "Avg": 13.93,
+        "CRD": 16.15,
+        "NPA": 13.16,
+        "STA": 13.03,
+        "TEMP": 10.48,
+        "TH": 11.54
+    }
+]
